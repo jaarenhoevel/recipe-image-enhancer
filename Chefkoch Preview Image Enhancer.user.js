@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Recipe Preview Image Enhancer
 // @namespace    https://github.com/jaarenhoevel/recipe-image-enhancer/
-// @version      0.1
+// @version      0.2
 // @homepage     https://github.com/jaarenhoevel/recipe-image-enhancer/
 // @downloadURL  https://github.com/jaarenhoevel/recipe-image-enhancer/raw/main/Chefkoch%20Preview%20Image%20Enhancer.user.js
 // @description  Finally some appetizing pictures
