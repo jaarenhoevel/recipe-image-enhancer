@@ -3,7 +3,7 @@
 // @namespace    https://github.com/jaarenhoevel/recipe-image-enhancer/
 // @version      0.1
 // @homepage     https://github.com/jaarenhoevel/recipe-image-enhancer/
-// @downloadURL  https://github.com/jaarenhoevel/recipe-image-enhancer/blob/main/Chefkoch%20Preview%20Image%20Enhancer.user.js
+// @downloadURL  https://github.com/jaarenhoevel/recipe-image-enhancer/raw/main/Chefkoch%20Preview%20Image%20Enhancer.user.js
 // @description  Finally some appetizing pictures
 // @author       János Arenhövel
 // @match        https://www.chefkoch.de/rs/*
